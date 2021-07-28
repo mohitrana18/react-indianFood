@@ -1,0 +1,1 @@
+this is just a simple only front-end project of a Indian food ordering website.
